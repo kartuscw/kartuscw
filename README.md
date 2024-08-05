@@ -1,5 +1,5 @@
 - 👋 Hi stranger, it's @kartuscw
-- 👀 I’m interested in all kind of stayalone activities: coding, gaming, hiking, strolling..
+- 👀 Interested in all kind of stayalone activities: coding, gaming, hiking, strolling..
 - 🌱 I’m currently learning C++..
 - ⚡ Fun fact: my first language was scratch, the one a little idiotic cat, yet I wasn't little and also not a cat..
 - :paperclip:    Favorite quote, my motto: "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." --- by Samuel Becket
