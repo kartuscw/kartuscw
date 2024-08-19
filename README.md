@@ -1,4 +1,4 @@
-- :paperclip: "Ever tried, ever failed, no matter. Try Again, fail again, fail better." --- Samuel Becket
+- :paperclip: Ever tried, ever failed, try Again, fail again, fail better.
 
 <!---
 kartuscw/kartuscw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
